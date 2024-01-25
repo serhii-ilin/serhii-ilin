@@ -3,6 +3,7 @@
 Some of my PRs to Open Source
 * [MeasureAuthoringTool](https://github.com/MeasureAuthoringTool/MeasureAuthoringTool/pulls?q=is%3Apr+author%3Aserhii-ilin+)
 * [Bonniel](https://github.com/MeasureAuthoringTool/bonnie/pulls?q=is%3Apr+author%3Aserhii-ilin+)
+* [Model Info Parser - FHIR models](https://github.com/MeasureAuthoringTool/model-info-parser/pulls?q=+is%3Apr+author%3Aserhii-ilin+)
 
 
 <!--

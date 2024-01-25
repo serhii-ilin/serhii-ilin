@@ -1,10 +1,11 @@
 ### Hi there 👋
 
-Some of my PRs to Open Source
+⚡Some of my PRs to Open Source
 * [MeasureAuthoringTool](https://github.com/MeasureAuthoringTool/MeasureAuthoringTool/pulls?q=is%3Apr+author%3Aserhii-ilin+)
-* [Bonniel](https://github.com/MeasureAuthoringTool/bonnie/pulls?q=is%3Apr+author%3Aserhii-ilin+)
+* [Bonnie QDM and FHIR](https://github.com/MeasureAuthoringTool/bonnie/pulls?q=is%3Apr+author%3Aserhii-ilin+)
 * [Model Info Parser - FHIR models](https://github.com/MeasureAuthoringTool/model-info-parser/pulls?q=+is%3Apr+author%3Aserhii-ilin+)
-
+* [FHIR data models for mongoid](https://github.com/MeasureAuthoringTool/fhir-mongoid-models/pulls?q=is%3Apr+author%3Aserhii-ilin+)
+* [Automation Testing with Cypress](https://github.com/MeasureAuthoringTool/MAT_Automation_Cypress/pulls?q=is%3Apr+author%3Aserhii-ilin+)
 
 <!--
 **serhii-ilin/serhii-ilin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

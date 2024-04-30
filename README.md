@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Would you like to check my code? See my contributions to Open Source between 2016 - 2021
+
 ⚡Some of my PRs to Open Source
 * [MeasureAuthoringTool](https://github.com/MeasureAuthoringTool/MeasureAuthoringTool/pulls?q=is%3Apr+author%3Aserhii-ilin+)
 * [Bonnie QDM and FHIR](https://github.com/MeasureAuthoringTool/bonnie/pulls?q=is%3Apr+author%3Aserhii-ilin+)
